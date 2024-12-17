@@ -10,15 +10,9 @@ Our mission is to make personal finance accessible, actionable, and insightful f
 
 ## 🌟 Projects  
 
-1. **[FinTrack](https://github.com/your-repo-link/fintrack)**  
+1. **[FinTrack](https://github.com/sourpips/fintrack)**  
    A comprehensive personal finance management platform built with Django.  
    - Key Features: Budget planner, expense tracker, investment manager, debt tracking, and financial goals.  
-
-2. **[Your Second Project Name](https://github.com/your-repo-link/project2)**  
-   A short description of this project and what it offers.  
-
-3. **[Your Third Project Name](https://github.com/your-repo-link/project3)**  
-   A short description of this project and what it offers.  
 
 ---
 
